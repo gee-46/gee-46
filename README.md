@@ -72,6 +72,8 @@ Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science E
 
 - [LinkedIn](https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/)
 
+> Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
+
 ---
 
 <details>
