@@ -43,7 +43,7 @@ Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science E
 <p align="center">
   <!-- Replace these src links with the actual paths after upload if needed -->
 [image alt](https://github.com/gee-46/gee-46/blob/f4f297ce0955685dc1a205ebcb0cc54639907b89/IMG_5748.jpeg)
-  <img src="URL_TO_IMAGE_2" alt="IBM Data Science Methodology" width="120"/>
+  <img src="https://github.com/gee-46/gee-46/blob/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" alt="IBM Data Science Methodology" width="120"/>
   <img src="URL_TO_IMAGE_3" alt="IBM Tools for Data Science V2" width="120"/>
 </p>
 
