@@ -1,8 +1,6 @@
 <!-- Profile README for gee-46 -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/gee-46?v=4" width="140" alt="gee-46's GitHub Avatar" style="border-radius:50%;" />
-</p>
+
 
 <h1 align="center">Hey there! I'm Gautam N Chipkar 👋</h1>
 
