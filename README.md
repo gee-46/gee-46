@@ -1,7 +1,6 @@
 <!-- Profile README for gee-46 -->
 
 
-
 <h1 align="center">Hey there! I'm Gautam N Chipkar 👋</h1>
 
 <p align="center">
@@ -13,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science Engineering. I’m driven by a passion for solving real-world problems with technology and making a positive impact—especially in mental wellness for youth.
+Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science Engineering. I’m driven by a passion for solving real-world problems with technology and making a positive impact…
 
 - 💡 **Curious Coder:** Constantly exploring the boundaries of Python (Seaborn, Matplotlib, Numpy, Pandas), and dabbling in web tech (HTML, CSS, JS) when inspiration strikes.
 - 🤖 **AI/ML Explorer:** Enthusiastic about all things artificial intelligence and machine learning—always learning, building, and experimenting.
@@ -25,8 +24,25 @@ Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science E
 ## 🌟 Featured Project
 
 ### [MannMitra: Your AI-powered Friend for Youth Mental Wellness in India](https://genai-project-nu-five.vercel.app/)
-> **MannMitra** is a confidential, AI-powered companion built on Google Cloud Generative AI. It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis support—all in a culturally sensitive, stigma-free, and gamified way.  
+> **MannMitra** is a confidential, AI-powered companion built on Google Cloud Generative AI. It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis support.
 > _I’m actively developing and adding new features daily!_
+
+---
+
+## 🔧 Currently Working On
+
+**Gesture-Based System Volume Control (Infosys Springboard Internship Project)**
+
+I’m currently developing a hand-gesture controlled system volume adjuster using OpenCV, MediaPipe, and PyCAW as part of my Infosys Springboard internship.
+
+**The project uses:**
+- **MediaPipe Hand Tracking:** to detect hand landmarks in real-time
+- **OpenCV:** to process webcam frames
+- **Distance calculations:** to understand finger gestures (thumb–index)
+- **PyCAW:** to directly control system audio volume
+- **Interactive feedback UI:** volume bar + percentage display
+
+The end goal is to create a smooth, real-time, touchless system volume controller — turning simple finger movements into actual system-level audio control.
 
 ---
 
