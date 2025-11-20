@@ -12,8 +12,7 @@
 
 ## 🚀 About Me
 
-Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science Engineering. I’m driven by a passion for solving real-world problems with technology and making a positive impact…
-
+Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science Engineering. I’m driven by a passion for solving real-world problems with technology and making a positive impact…  
 - 💡 **Curious Coder:** Constantly exploring the boundaries of Python (Seaborn, Matplotlib, Numpy, Pandas), and dabbling in web tech (HTML, CSS, JS) when inspiration strikes.
 - 🤖 **AI/ML Explorer:** Enthusiastic about all things artificial intelligence and machine learning—always learning, building, and experimenting.
 - 🌱 **Growth Mindset:** Whether it’s a new library or a new idea, I love picking up new skills and challenging myself.
@@ -24,7 +23,7 @@ Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science E
 ## 🌟 Featured Project
 
 ### [MannMitra: Your AI-powered Friend for Youth Mental Wellness in India](https://genai-project-nu-five.vercel.app/)
-> **MannMitra** is a confidential, AI-powered companion built on Google Cloud Generative AI. It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis support.
+> **MannMitra** is a confidential, AI-powered companion built on Google Cloud Generative AI. It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis resources.  
 > _I’m actively developing and adding new features daily!_
 
 ---
@@ -46,13 +45,7 @@ The end goal is to create a smooth, real-time, touchless system volume controlle
 
 ---
 
-## 🏅 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy Wall"/>
-</p>
-
-### 🏵️ IBM Badges
+## 🏵️ IBM Badges
 
 <p align="center">
   <!-- Replace these src links with the actual paths after upload if needed -->
