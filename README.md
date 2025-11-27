@@ -1,79 +1,57 @@
-<!-- Profile README for gee-46 -->
+💫 **About Me:**
+👋 Hi, I'm Gautam N Chipkar!
 
+🎓 **Education:**  
+I’m an AI & Data Science Engineering student at SGBIT, passionate about building meaningful tech that helps people and solves real-world problems.
 
-<h1 align="center">Hey there! I'm Gautam N Chipkar 👋</h1>
+💡 **What I Love:**  
+Exploring Python, AI/ML, data visualization, and creating practical applications that make life simpler and smarter.
 
-<p align="center">
-  <b>AI & DS Engineering Student | Python Developer Intern @ Infosys Springboard</b><br>
-  <i>Building tech with heart, code with curiosity, and AI for good.</i>
-</p>
+🌱 **Currently Growing:**  
+Hands-on learning, projects, internships, and lots of curiosity.
 
----
+💻 **Work:**  
+Python Developer Intern @ Infosys Springboard — gaining real-world experience and sharpening my engineering mindset.
 
-## 🚀 About Me
+🚀 **Currently Building**
 
-Hi! I’m Gautam, a pre-final year student at SGBIT pursuing AI & Data Science Engineering. I’m driven by a passion for solving real-world problems with technology and making a positive impact…  
-- 💡 **Curious Coder:** Constantly exploring the boundaries of Python (Seaborn, Matplotlib, Numpy, Pandas), and dabbling in web tech (HTML, CSS, JS) when inspiration strikes.
-- 🤖 **AI/ML Explorer:** Enthusiastic about all things artificial intelligence and machine learning—always learning, building, and experimenting.
-- 🌱 **Growth Mindset:** Whether it’s a new library or a new idea, I love picking up new skills and challenging myself.
-- 💻 **Intern @ Infosys Springboard:** Gaining hands-on experience and collaborating with awesome minds.
+🤖 Gesture-Based System Volume Control (Internship Project)
 
----
+📊 Exploring ML workflows, Python libraries, and real-time data systems
 
-## 🌟 Featured Project
+🛠️ **Tech used in my ongoing project:**  
+MediaPipe | OpenCV | PyCAW | Python  
+→ Implementing hand-tracking, volume mapping, UI feedback, and real-time gesture recognition.
 
-### [MannMitra: Your AI-powered Friend for Youth Mental Wellness in India](https://genai-project-nu-five.vercel.app/)
-> **MannMitra** is a confidential, AI-powered companion built on Google Cloud Generative AI. It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis resources.  
-> _I’m actively developing and adding new features daily!_
+🛠️ **Tech Stack:**  
+Python | NumPy | Pandas | Matplotlib | Seaborn | OpenCV | MediaPipe | MySQL | SQLite
 
----
+🧿 **IBM Badges**  
+<p align="center"> <img src="https://github.com/gee-46/gee-46/blob/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" alt="IBM Badge 1" width="120"/> <img src="https://github.com/gee-46/gee-46/blob/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" alt="IBM Badge 2" width="120"/> <img src="https://github.com/gee-46/gee-46/blob/24d3e079312f2fc34cf075c221f4fc24c47ba7c0/IMG_5749.jpeg" alt="IBM Badge 3" width="120"/> </p>
 
-## 🔧 Currently Working On
+🏅 **Badges & Stats**  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile+Views" alt="Profile Views"/> <img src="https://img.shields.io/badge/Python-Developer-blue?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI/ML-Enthusiast-green"/> </p>
 
-**Gesture-Based System Volume Control (Infosys Springboard Internship Project)**
+# 💻 **Tech Stack:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-I’m currently developing a hand-gesture controlled system volume adjuster using OpenCV, MediaPipe, and PyCAW as part of my Infosys Springboard internship.
+📊 **GitHub Stats:**  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gee-46&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/> <br> <img src="https://nirzak-streak-stats.vercel.app/?user=gee-46&theme=dark&hide_border=false" height="160"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&theme=dark&hide_border=false&layout=compact" height="160"/> </p>
 
-**The project uses:**
-- **MediaPipe Hand Tracking:** to detect hand landmarks in real-time
-- **OpenCV:** to process webcam frames
-- **Distance calculations:** to understand finger gestures (thumb–index)
-- **PyCAW:** to directly control system audio volume
-- **Interactive feedback UI:** volume bar + percentage display
-
-The end goal is to create a smooth, real-time, touchless system volume controller — turning simple finger movements into actual system-level audio control.
-
----
-
-## 🏵️ IBM Badges
-
-<p align="center">
-  <!-- Replace these src links with the actual paths after upload if needed -->
- <img src="https://github.com/gee-46/gee-46/blob/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" alt="IBM Data Science Methodology" width="120"/>
-  <img src="https://github.com/gee-46/gee-46/blob/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" alt="IBM Data Science Methodology" width="120"/>
-  <img src="https://github.com/gee-46/gee-46/blob/24d3e079312f2fc34cf075c221f4fc24c47ba7c0/IMG_5749.jpeg" alt="IBM Tools for Data Science V2" width="120"/>
-</p>
-
----
-
-## 🏆 Badges & Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-success?logo=ai&logoColor=white" alt="AI/ML Badge"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight" alt="gee-46's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight" alt="gee-46's Top Languages" height="160"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -81,11 +59,8 @@ The end goal is to create a smooth, real-time, touchless system volume controlle
 
 > Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
 
----
 
-<details>
-  <summary>✨ Fun Fact</summary>
-  <p>
-    When I'm not coding, you'll find me dreaming up new project ideas, geeking out over AI breakthroughs, or helping friends debug their code (with a smile)!
-  </p>
-</details>
+
+<details> <summary>✨ **Fun Fact**</summary> <p>I’m that friend who ends up helping everyone debug their code — and secretly loves it 😄</p> </details>
+
+---
