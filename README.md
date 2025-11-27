@@ -18,10 +18,14 @@ Exploring Python, AI/ML, data visualization, and creating practical applications
 Hands-on learning, projects, internships, and lots of curiosity.
 </p>
 
+
+
 <h3>💻 <b>Work:</b></h3>
 <p style="font-size: 18px">
 Python Developer Intern @ Infosys Springboard — gaining real-world experience and sharpening my engineering mindset.
 </p>
+
+---
 
 <h3>🚀 <b>Currently Building</b></h3>
 <p style="font-size: 18px">
@@ -49,6 +53,8 @@ MediaPipe
 MySQL
 SQLite
 </pre>
+
+---
 
 <h3>🧿 <b>IBM Badges</b></h3>
 <p align="center" style="font-size: 18px">
@@ -83,6 +89,8 @@ SQLite
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
+---
+
 <h3>📊 <b>GitHub Stats:</b></h3>
 <p align="center" style="font-size: 18px">
 <img src="https://github-readme-stats.vercel.app/api?username=gee-46&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
@@ -91,6 +99,8 @@ SQLite
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&theme=dark&hide_border=false&layout=compact" height="160"/>
 </p>
+
+---
 
 <h3>🌐 <b>Let's Connect:</b></h3>
 <p style="font-size: 18px">
