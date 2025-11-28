@@ -90,6 +90,11 @@ SQLite
 </p>
 
 ---
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=gee-46&theme=radical)
+
+---
 
 <h3>📊 <b>GitHub Stats:</b></h3>
 <p align="center" style="font-size: 18px">
