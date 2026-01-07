@@ -2,7 +2,9 @@
 <p style="font-size: 18px">
 👋 Hi, I'm Gautam N Chipkar!
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFCC&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Computer+Vision+%7C+Machine+Learning;Python+Developer;Building+Real-World+AI+Systems;Always+Learning+Always+Building" />
+</p>
 <h3>🎓 <b>Education:</b></h3>
 <p style="font-size: 18px">
 I’m an AI & Data Science Engineering student at SGBIT, passionate about building meaningful tech that helps people and solves real-world problems.
@@ -90,9 +92,12 @@ SQLite
 </p>
 
 ---
-## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gee-46&theme=radical)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
