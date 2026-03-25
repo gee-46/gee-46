@@ -96,21 +96,22 @@
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&line=00E7FF&point=FFFFFF" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
 </p>
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=dark" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=gee-46&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=dark&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=gee-46&theme=dark&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=dark&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
