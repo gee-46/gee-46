@@ -102,12 +102,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
 </p>
+<br>
 
-## 🐍 Contribution Snake
+## 🐍 My Contribution Activity (Live)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
+
+<br>
 
 ## 📊 GitHub Insights & Activity
 
