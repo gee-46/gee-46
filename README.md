@@ -102,7 +102,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&line=00E7FF&point=FFFFFF" width="95%"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=dark" height="150"/>
@@ -113,7 +113,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=dark" height="150"/>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 🌐 Connect with Me
 
