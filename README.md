@@ -106,7 +106,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ## 📊 GitHub Insights
