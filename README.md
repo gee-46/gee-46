@@ -109,7 +109,7 @@
   <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=dark&cache_seconds=1800" height="150"/>
