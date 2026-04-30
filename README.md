@@ -51,16 +51,6 @@ Interested in solving real-world problems through **system design, not just mode
 * Real-time computer vision system using OpenCV and MediaPipe
 * Hand gesture tracking mapped to system-level audio control
 
----
-
-## Achievements
-
-* **4th Place — INNOVATEx 4.0 (International Tech Fest, Presidency University, Bangalore)**
-  24-hour hackathon focused on AI-based solutions
-
-* Active participant on **Hack2Skill**, working on multiple hackathons and AI-based problem statements
-
-* IBM Skill Badges in AI & Data Science
 
 ---
 
