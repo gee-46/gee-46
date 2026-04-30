@@ -80,12 +80,6 @@ Pandas, NumPy, Matplotlib
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
-</p>
-
 
 ## 🏅 Achievements & Recognition
 
