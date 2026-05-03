@@ -148,6 +148,11 @@ Pandas, NumPy, Matplotlib
   <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gee-46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🌐 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/)
