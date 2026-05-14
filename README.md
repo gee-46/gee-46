@@ -94,6 +94,9 @@ Pandas, NumPy, Matplotlib
 
 * **4th Place — INNOVATEx 4.0 (International Tech Fest, Presidency University, Bangalore)**
   24-hour hackathon focused on AI-based solutions
+  
+* **Top 8 Finalist — BIT Techverse’26 Hackathon (BIT Mangalore)**
+  Built *HarborPulse*, an AI-powered smart harbor coordination platform, and secured Top 8 among 140+ competing teams during a 24-hour hackathon.
 
 * **Active Hackathon Participant — Hack2Skill Platform**
 
