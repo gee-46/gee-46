@@ -1,167 +1,213 @@
-<h1 align="center">Gautam N Chipkar</h1>
+<!-- HEADER BANNER — capsule-render gives animated gradient waves. Change 'type' to: waving, rect, cylinder, soft, shark, egg, venom, slice -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gautam%20N%20Chipkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Builder%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Remote%20Roles&descAlignY=56&descSize=15&descColor=a0a8d0"/>
+</div>
 
-<p align="center">
-  Applied AI Engineer | RAG Systems | Computer Vision | ML Systems
-</p>
+<!-- TYPING ANIMATION — edit the 'lines' param to change what cycles through -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+from+scratch+%F0%9F%94%8D;Turning+LLMs+into+knowledge-grounded+systems+%F0%9F%A7%A0;Computer+Vision+%7C+FAISS+%7C+FastAPI+%7C+OpenCV;Open+to+remote+AI+%2F+ML+%2F+Research+roles+%F0%9F%8C%8D" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-## Profile
-
-AI & Data Science Engineering student at SGBIT, building **end-to-end AI systems** with a focus on:
-
-* Retrieval-Augmented Generation (RAG)
-* Computer Vision
-* Production-oriented ML pipelines
-
-Currently developing a **modular RAG system from scratch** with:
-
-* FAISS-based semantic retrieval
-* Local + pluggable LLM backend (Ollama / OpenAI)
-* Context-grounded answer generation
-
-**Focus:** turning LLMs into reliable, knowledge-aware systems instead of generic text generators.
----
-
-## Currently Working On
-
-* Improving retrieval quality using **document chunking**
-* Optimizing context construction for LLM responses
-* Preparing the system for API deployment (FastAPI)
+<!-- SOCIAL + STATUS BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%20%2F%20ML%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</div>
 
 ---
 
-## Experience
+## 🧠 Who I Am
 
-**Python Developer Intern — Infosys Springboard**
+Pre Final-year **AI & Data Science** student at SGBIT, Belagavi — building systems that make LLMs actually useful: grounded, retrieval-aware, and production-ready.
 
-* Developed structured Python solutions for real-world problem statements
-* Focused on code quality, debugging, and modular design
+I don't just use frameworks — I build under them to understand every layer.  
+Currently focused on **RAG systems, Computer Vision pipelines**, and getting them to production with FastAPI.
 
-**Machine Learning Intern — Cognifyz Technologies**
-
-* Built supervised learning models on real datasets
-* Implemented preprocessing pipelines and evaluated model performance
+**Looking for:** Remote roles as AI Engineer · ML Engineer · AI Research Intern
 
 ---
 
-## Selected Work
+## 🔨 What I'm Building Right Now
 
-### RAG System (In Progress)
+### Modular RAG System — no LangChain, built from scratch
 
-* Designed a modular Retrieval-Augmented Generation pipeline from scratch
-* Implemented semantic embeddings + FAISS vector search
-* Integrated local LLM (Ollama) with pluggable backend architecture
-* Built full pipeline: query → retrieval → context → grounded answer
-* Built without high-level frameworks (e.g., LangChain) to understand system internals
+> My main focus. I want to know *exactly* what's happening at every step — so I skipped the abstractions.
 
-**Key Focus:** reducing hallucination using external knowledge grounding
+```
+User Query
+    ↓
+Sentence Embeddings  ←  SentenceTransformers
+    ↓
+FAISS Vector Search  →  Top-K Relevant Chunks
+    ↓
+Context Construction
+    ↓
+Local LLM (Ollama)  ←→  OpenAI  [pluggable backend]
+    ↓
+Grounded Answer — hallucination significantly reduced
+```
 
----
+**Currently working on:**
+- Chunking strategies (sliding window, semantic-aware splitting)
+- Retrieval quality benchmarking
+- FastAPI deployment layer
 
-### Disaster Visual Question Answering (VQA)
-
-* Built a multimodal system combining image understanding and NLP
-* Extracts insights from disaster-related imagery
-* Explored real-world applications of image-text reasoning
-
----
-
-### Gesture-Based Volume Control
-
-* Real-time computer vision system using OpenCV and MediaPipe
-* Hand gesture tracking mapped to system-level audio control
-
----
-
-## Tech Stack
-
-**Languages**
-Python, SQL
-
-**AI / ML**
-SentenceTransformers, scikit-learn, TensorFlow, PyTorch
-
-**Systems & Tools**
-FAISS, FastAPI, OpenCV, Flask
-
-**Data**
-Pandas, NumPy, Matplotlib
+**Why from scratch?** I wanted to understand what LangChain actually does. Now I do.
 
 ---
 
-## Achievements & Recognition
+## 🚀 Featured Projects
 
-* **4th Place — INNOVATEx 4.0 (International Tech Fest, Presidency University, Bangalore)**
-  24-hour hackathon focused on AI-based solutions
-  
-* **Top 8 Finalist — BIT Techverse’26 Hackathon (BIT Mangalore)**
-  Built *HarborPulse*, an AI-powered smart harbor coordination platform, and secured Top 8 among 140+ competing teams during a 24-hour hackathon.
-
-* **Active Hackathon Participant — Hack2Skill Platform**
-
-  * Participated in multiple AI-focused hackathons
-  * Proposed and developed solutions for real-world problem statements
-  * Worked in fast-paced, team-based environments
-
-* **Solution Challenge Badge — Build with AI (Hack2Skill, India)**
-
-* **IBM Skill Badges in AI & Data Science**
-
-
-
-<p align="center">
-  <img src="https://github.com/gee-46/gee-46/blob/main/badge.png" width="90"/>
-  <img src="https://github.com/gee-46/gee-46/blob/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" width="90"/>
-  <img src="https://github.com/gee-46/gee-46/blob/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" width="90"/>
-  <img src="https://github.com/gee-46/gee-46/blob/24d3e079312f2fc34cf075c221f4fc24c47ba7c0/IMG_5749.jpeg" width="90"/>
-  
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏙️ <a href="https://github.com/gee-46/SlumSafe-AI">SlumSafe AI</a></h3>
+      <img src="https://img.shields.io/badge/4th%20Place-INNOVATEx%204.0-gold?style=flat-square"/>
+      <img src="https://img.shields.io/badge/100%2B%20Teams-International%20Hackathon-blue?style=flat-square"/>
+      <br/><br/>
+      AI-driven urban safety assessment that identifies risk zones in informal settlements using computer vision + geospatial data. Built end-to-end in 24 hours at Presidency University's International Tech Fest.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computer Vision-OpenCV-5C3EE8?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 <a href="https://github.com/gee-46/NEURAL-CAPITALS-HarborPulse">HarborPulse</a></h3>
+      <img src="https://img.shields.io/badge/Top%208-BIT%20Techverse%2026-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/140%2B%20Teams-24hr%20Hackathon-blue?style=flat-square"/>
+      <br/><br/>
+      AI-powered smart harbor coordination platform — vessel scheduling, anomaly detection, port operations optimization. Built with Team Neural Capitals at BIT Mangalore.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 <a href="https://github.com/gee-46/-Disaster-VQA-Response-System">Disaster VQA System</a></h3>
+      <img src="https://img.shields.io/badge/Multimodal-Vision%20%2B%20NLP-purple?style=flat-square"/>
+      <br/><br/>
+      Ask natural language questions about disaster imagery and get answers grounded in what the model sees — not what it was trained to assume. Built on BLIP with modular model-swap architecture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/BLIP-Transformer-blueviolet?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖐️ <a href="https://github.com/gee-46/gesture-volume-control">Gesture Volume Control</a></h3>
+      <img src="https://img.shields.io/badge/Real--Time-30fps%20on%20CPU-green?style=flat-square"/>
+      <br/><br/>
+      Control system volume with hand gestures — no keyboard, no mouse. Real-time hand landmark tracking via MediaPipe, mapped to audio level using PyCAW. Works out of the box.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contribution Graph
+## 🛠️ Tech Stack
 
-<p align="center">
+<!-- SKILL ICONS — powered by skillicons.dev. Add/remove icons at: https://skillicons.dev -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,opencv,git,github,linux,vscode&perline=10&theme=dark"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Area | Tools |
+|---|---|
+| **AI / ML** | PyTorch · TensorFlow · scikit-learn · SentenceTransformers · HuggingFace Transformers |
+| **Retrieval & Search** | FAISS · Semantic Chunking · Embedding Pipelines · Ollama |
+| **Computer Vision** | OpenCV · MediaPipe · BLIP |
+| **Backend** | FastAPI · Flask · REST APIs |
+| **Data** | Pandas · NumPy · Matplotlib |
+| **Languages** | Python · SQL · TypeScript |
+
+</div>
+
+---
+
+## 🏅 Recognition
+
+<div align="center">
+
+| | Event | Result |
+|---|---|---|
+| 🥉 | **INNOVATEx 4.0** — International Tech Fest, Presidency University Bangalore | **4th Place** / 100+ teams |
+| 🏅 | **BIT Techverse'26** — 24hr Hackathon, BIT Mangalore | **Top 8** / 140+ teams |
+| 🎖️ | IBM Skill Badges — AI & Data Science | Certified |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="155"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&hide_border=true&cache_seconds=1800" height="155"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="130"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
-</p>
-<br>
+</div>
 
-## 🐍 My Contribution Activity (Live)
+---
 
-<p align="center">
+## 🐍 Contribution Activity
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
   <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</p>
+</div>
 
-<br>
-
-## 📊 GitHub Insights & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=dark&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=gee-46&theme=dark&cache_seconds=1800" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=dark&cache_seconds=1800" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gee-46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Let's Talk
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/)
+I'm actively looking for **remote roles** — AI Engineer, ML Engineer, Research Intern.  
+If you're building something where understanding the system matters, let's connect.
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-## ⚡ Fun Fact
+<br/>
 
-> I’m the go-to person for debugging… and I actually enjoy it 😄
+> I debug for fun. That's either a green flag or a red flag depending on your team culture.
+
+<!-- FOOTER WAVE — matches the header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+</div>
