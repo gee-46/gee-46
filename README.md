@@ -128,9 +128,9 @@ Grounded Answer — hallucination significantly reduced
 | **AI / ML** | PyTorch · TensorFlow · scikit-learn · SentenceTransformers · HuggingFace Transformers |
 | **Retrieval & Search** | FAISS · Semantic Chunking · Embedding Pipelines · Ollama |
 | **Computer Vision** | OpenCV · MediaPipe · BLIP |
-| **Backend** | FastAPI · Flask · REST APIs |
+| **Backend** | FastAPI  · REST APIs |
 | **Data** | Pandas · NumPy · Matplotlib |
-| **Languages** | Python · SQL · TypeScript |
+| **Languages** | Python · SQL ·  |
 
 </div>
 
