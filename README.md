@@ -130,7 +130,7 @@ Grounded Answer — hallucination significantly reduced
 | **Computer Vision** | OpenCV · MediaPipe · BLIP |
 | **Backend** | FastAPI  · REST APIs |
 | **Data** | Pandas · NumPy · Matplotlib |
-| **Languages** | Python · SQL ·  |
+| **Languages** | Python · SQL  |
 
 </div>
 
