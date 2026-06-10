@@ -176,8 +176,9 @@ Grounded Answer — hallucination significantly reduced
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="155"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&cache_seconds=1"/>
-</div>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=gee-46&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="130"/>
