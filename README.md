@@ -175,19 +175,16 @@ Grounded Answer — hallucination significantly reduced
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
-
----
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=gee-46&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+</td>
+</tr>
+</table>
 
 ## 📈 Contribution Graph
 
