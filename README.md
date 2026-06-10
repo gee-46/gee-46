@@ -171,17 +171,22 @@ Grounded Answer — hallucination significantly reduced
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="155"/>
-  &nbsp;
- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gee-46&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="130"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
 </div>
 
 ---
@@ -189,7 +194,7 @@ Grounded Answer — hallucination significantly reduced
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -208,7 +213,6 @@ Grounded Answer — hallucination significantly reduced
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
-
 ---
 
 ## 📬 Let's Talk
