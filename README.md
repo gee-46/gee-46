@@ -183,8 +183,12 @@ Grounded Answer — hallucination significantly reduced
 <td>
 <img src="https://streak-stats.demolab.com/?user=gee-46&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+</td>
 </tr>
 </table>
+
 
 ## 📈 Contribution Graph
 
