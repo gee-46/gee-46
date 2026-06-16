@@ -26,8 +26,9 @@
 
 Pre Final-year **AI & Data Science** student at SGBIT, Belagavi — building systems that make LLMs actually useful: grounded, retrieval-aware, and production-ready.
 
-I don't just use frameworks — I build under them to understand every layer.
-Currently focused on **RAG systems, Computer Vision pipelines**, and getting them to production with FastAPI.
+I don't just use frameworks — I build under them to understand every layer. Currently focused on **RAG systems, Computer Vision pipelines**, and getting them to production with FastAPI.
+
+**2× National Hackathon FInalist (Top 10)** 🏆
 
 **Looking for:** Remote roles as AI Engineer · ML Engineer · AI Research Intern
 
