@@ -153,7 +153,8 @@ Grounded Answer — hallucination significantly reduced
 ## 🎖️ Certifications & Badges
 
 <div align="center">
-  <img src="https://github.com/gee-46/gee-46/raw/main/badge.png" width="100" title="Solution Challenge Badge — Build with AI, Hack2Skill India"/>
+<img src="https://github.com/gee-46/gee-46/raw/main/ai-skills-fest-2026.png" width="100" title="Microsoft AI Skill Fest 2026"/>
+  &nbsp;&nbsp;  <img src="https://github.com/gee-46/gee-46/raw/main/badge.png" width="100" title="Solution Challenge Badge — Build with AI, Hack2Skill India"/>
   &nbsp;&nbsp;
   <img src="https://github.com/gee-46/gee-46/raw/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" width="100" title="IBM Skill Badge — AI & Data Science"/>
   &nbsp;&nbsp;
