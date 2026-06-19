@@ -28,7 +28,7 @@ Pre Final-year **AI & Data Science** student at SGBIT, Belagavi — building sys
 
 I don't just use frameworks — I build under them to understand every layer. Currently focused on **RAG systems, Computer Vision pipelines**, and getting them to production with FastAPI.
 
-**2× National Hackathon FInalist (Top 10)** 🏆
+**3× National Hackathon Finalist** 🏆
 
 **Looking for:** Remote roles as AI Engineer · ML Engineer · AI Research Intern
 
@@ -145,6 +145,7 @@ Grounded Answer — hallucination significantly reduced
 |---|---|---|
 | 🥉 | **INNOVATEx 4.0** — International Tech Fest, Presidency University Bangalore | **4th Place** / 100+ teams |
 | 🏅 | **BIT Techverse'26** — 24hr Hackathon, BIT Mangalore | **Top 8** / 140+ teams |
+| ⭐ | **Summerschool Hackathon** — Organized by Skilstation | **Best Performance Recognition** · Top 500 / 2000+ teams · Advanced to Round 2 |
 
 </div>
 
@@ -152,26 +153,50 @@ Grounded Answer — hallucination significantly reduced
 
 ## 🎖️ Certifications & Badges
 
-<div align="center">
-<img src="https://github.com/gee-46/gee-46/raw/main/ai-skills-fest-2026.png" width="100" title="Microsoft AI Skill Fest 2026"/>
-  &nbsp;&nbsp;  <img src="https://github.com/gee-46/gee-46/raw/main/badge.png" width="100" title="Solution Challenge Badge — Build with AI, Hack2Skill India"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/gee-46/gee-46/raw/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" width="100" title="IBM Skill Badge — AI & Data Science"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/gee-46/gee-46/raw/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" width="100" title="IBM Skill Badge"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/gee-46/gee-46/raw/24d3e079312f2fc34cf075c221f4fc24c47ba7c0/IMG_5749.jpeg" width="100" title="IBM Skill Badge"/>
-</div>
+<table align="center" border="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/gee-46/gee-46/raw/main/ai-skills-fest-2026.png" width="100" title="Microsoft AI Skills Fest 2026"/><br/>
+      <img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest%202026-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gee-46/gee-46/raw/main/badge.png" width="100" title="Solution Challenge Badge — Build with AI, Hack2Skill India"/><br/>
+      <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=devpost&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gee-46/gee-46/raw/a6ce8def44f92473a3be19c32a2c694a8571a789/IMG_5751.png" width="100" title="IBM Skill Badge — AI & Data Science"/><br/>
+      <img src="https://img.shields.io/badge/IBM-AI%20%26%20Data%20Science-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gee-46/gee-46/raw/adfa44737e7b42f4576cd2935ffbaeeb64768b04/IMG_5748.jpeg" width="100" title="IBM Skill Badge"/><br/>
+      <img src="https://img.shields.io/badge/IBM-Skill%20Badge-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gee-46/gee-46/raw/24d3e079312f2fc34cf075c221f4fc24c47ba7c0/IMG_5749.jpeg" width="100" title="IBM Skill Badge"/><br/>
+      <img src="https://img.shields.io/badge/IBM-Skill%20Badge-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+### 🤖 Microsoft AI Skills Fest 2026 — *Develop Your First Agent with Microsoft Foundry*
+
+> Completed Microsoft's official learning path on building AI agents — going beyond content generation into **intelligent systems that reason, act, and assist**.
+
 <div align="center">
-  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Data%20Science-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=devpost&logoColor=white"/>
+
+| Area | What I Learned |
+|---|---|
+| 🧠 **Generative AI & Agents** | Fundamentals of GenAI, agent architectures, and how AI agents differ from traditional models |
+| 🏗️ **Microsoft Foundry** | Platform capabilities, how it enables end-to-end agent development at scale |
+| 🛠️ **Developer Tools & SDKs** | Agent-building workflows, toolchains, and SDK usage for building production-ready agents |
+| ⚙️ **AI-Powered App Design** | Designing and building applications where AI agents drive core functionality |
+| 🚀 **Real-World Automation** | How agents can automate tasks, enhance productivity, and solve practical challenges |
+
 </div>
 
----
+**Key takeaway:** AI is no longer just about generating content — it's about creating intelligent systems that can **reason, act, and assist users effectively**.
 
 ---
 
@@ -214,6 +239,7 @@ Grounded Answer — hallucination significantly reduced
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
+
 ---
 
 ## 📬 Let's Talk
