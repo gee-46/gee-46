@@ -242,6 +242,13 @@ Grounded Answer — hallucination significantly reduced
 
 ---
 
+## 📝 Latest Gists
+
+- 🚀 **[Top 5 AI Tools Every Student & Working Professional Should Use in 2026](https://gist.github.com/gee-46/08a78628eb5deaf1475471b4894b23f6)**
+  <br/>A quick roundup of the AI tools I actually use day-to-day — for coding, research, and getting things done faster.
+
+---
+
 ## 📬 Let's Talk
 
 I'm actively looking for **remote roles** — AI Engineer, ML Engineer, Research Intern.
