@@ -1,4 +1,4 @@
-<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gautam%20N%20Chipkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Builder%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Remote%20Roles&descAlignY=56&descSize=15&descColor=a0a8d0"/>
 </div>
 
