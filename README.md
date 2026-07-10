@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gautam%20N%20Chipkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Builder%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Remote%20Roles&descAlignY=56&descSize=15&descColor=a0a8d0"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+from+scratch+%F0%9F%94%8D;Turning+LLMs+into+knowledge-grounded+systems+%F0%9F%A7%A0;Computer+Vision+%7C+FAISS+%7C+FastAPI+%7C+OpenCV;Open+to+remote+AI+%2F+ML+%2F+Research+roles+%F0%9F%8C%8D" alt="Typing SVG" />
-</div>
+# Gautam N Chipkar
 
-<br/>
+### AI Engineer • Generative AI • LLMs • Computer Vision
+
+<table>
+<tr>
+<td valign="top">
+<img src="./ascii.svg" width="370" alt="ASCII Portrait"/>
+</td>
+<td valign="top">
+<img src="./info-card.svg" width="490" alt="Terminal Info Card"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
@@ -24,7 +33,7 @@
 
 ## 🧠 Who I Am
 
-Pre Final-year **AI & Data Science** student at SGBIT, Belagavi — building systems that make LLMs actually useful: grounded, retrieval-aware, and production-ready.
+Final-year **AI & Data Science** student at SGBIT, Belagavi — building systems that make LLMs actually useful: grounded, retrieval-aware, and production-ready.
 
 I don't just use frameworks — I build under them to understand every layer. Currently focused on **RAG systems, Computer Vision pipelines**, and getting them to production with FastAPI.
 
@@ -216,14 +225,8 @@ Grounded Answer — hallucination significantly reduced
 </tr>
 </table>
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gee-46&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
 ---
+
 
 ## 🐍 Contribution Activity
 
