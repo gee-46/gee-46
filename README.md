@@ -15,23 +15,25 @@
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%20%2F%20ML%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</div>
+<a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%20%2F%20ML%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gee-46&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <br/>
 
 ---
 
 ## 🧠 Who I Am
+
+</div>
+
+<table>
+<tr>
+<td>
 
 Final-year **AI & Data Science** student at SGBIT, Belagavi — building systems that make LLMs actually useful: grounded, retrieval-aware, and production-ready.
 
@@ -41,13 +43,31 @@ I don't just use frameworks — I build under them to understand every layer. Cu
 
 **Looking for:** Remote roles as AI Engineer · ML Engineer · AI Research Intern
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ---
 
 ## 🔨 What I'm Building Right Now
 
 ### Modular RAG System — no LangChain, built from scratch
 
+</div>
+
+<table>
+<tr>
+<td>
+
 > My main focus. I want to know *exactly* what's happening at every step — so I skipped the abstractions.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ```
 User Query
@@ -63,12 +83,24 @@ Local LLM (Ollama)  ←→  OpenAI  [pluggable backend]
 Grounded Answer — hallucination significantly reduced
 ```
 
+</div>
+
+<table>
+<tr>
+<td>
+
 **Currently working on:**
 - Chunking strategies — sliding window and semantic-aware splitting
 - Retrieval quality benchmarking across chunk sizes
 - FastAPI deployment layer
 
 **Why from scratch?** I wanted to understand what LangChain actually does. Now I do.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
@@ -125,38 +157,28 @@ Grounded Answer — hallucination significantly reduced
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,opencv,git,github,linux,vscode&perline=10&theme=dark"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,opencv,git,github,linux,vscode&perline=10&theme=dark"/>
 
 <br/>
-
-<div align="center">
 
 | Area | Tools |
 |---|---|
 | **AI / ML** | PyTorch · TensorFlow · scikit-learn · SentenceTransformers · HuggingFace Transformers |
 | **Retrieval & Search** | FAISS · Semantic Chunking · Embedding Pipelines · Ollama |
 | **Computer Vision** | OpenCV · MediaPipe · BLIP |
-| **Backend** | FastAPI  · REST APIs |
+| **Backend** | FastAPI · REST APIs |
 | **Data** | Pandas · NumPy · Matplotlib |
-| **Languages** | Python · SQL  |
-
-</div>
+| **Languages** | Python · SQL |
 
 ---
 
 ## 🏅 Recognition
-
-<div align="center">
 
 | | Event | Result |
 |---|---|---|
 | 🥉 | **INNOVATEx 4.0** — International Tech Fest, Presidency University Bangalore | **4th Place** / 100+ teams |
 | 🏅 | **BIT Techverse'26** — 24hr Hackathon, BIT Mangalore | **Top 8** / 140+ teams |
 | ⭐ | **Summerschool Hackathon** — Organized by Skilstation | **Best Performance Recognition** · Top 500 / 2000+ teams · Advanced to Round 2 |
-
-</div>
 
 ---
 
@@ -191,7 +213,17 @@ Grounded Answer — hallucination significantly reduced
 
 ### 🤖 Microsoft AI Skills Fest 2026 — *Develop Your First Agent with Microsoft Foundry*
 
+</div>
+
+<table>
+<tr>
+<td>
+
 > Completed Microsoft's official learning path on building AI agents — going beyond content generation into **intelligent systems that reason, act, and assist**.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -203,15 +235,13 @@ Grounded Answer — hallucination significantly reduced
 | ⚙️ **AI-Powered App Design** | Designing and building applications where AI agents drive core functionality |
 | 🚀 **Real-World Automation** | How agents can automate tasks, enhance productivity, and solve practical challenges |
 
-</div>
-
 **Key takeaway:** AI is no longer just about generating content — it's about creating intelligent systems that can **reason, act, and assist users effectively**.
 
 ---
 
 ## 📊 GitHub Activity
 
-<table align="center">
+<table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -227,28 +257,35 @@ Grounded Answer — hallucination significantly reduced
 
 ---
 
-
 ## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</div>
+<img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/gee-46/gee-46/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 ---
 
 ## 📝 Latest Gists
 
+</div>
+
+<table>
+<tr>
+<td>
+
 - 🚀 **[Top 5 AI Tools Every Student & Working Professional Should Use in 2026](https://gist.github.com/gee-46/08a78628eb5deaf1475471b4894b23f6)**
   <br/>A quick roundup of the AI tools I actually use day-to-day — for coding, research, and getting things done faster.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
@@ -257,16 +294,14 @@ Grounded Answer — hallucination significantly reduced
 I'm actively looking for **remote roles** — AI Engineer, ML Engineer, Research Intern.
 If you're building something where understanding the system matters, let's connect.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/>
 
 > I debug for fun. That's either a green flag or a red flag depending on your team culture.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+
 </div>
