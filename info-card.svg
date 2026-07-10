@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="390" viewBox="0 0 480 390"
+font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#111722"/>
+<stop offset="1" stop-color="#0d1117"/>
+</linearGradient>
+</defs>
+
+<rect width="480" height="390" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="479" height="389" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
+
+<circle cx="20" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="15" r="5" fill="#27c93f"/>
+
+<text x="240" y="19" text-anchor="middle" fill="#7d8590" font-size="12">
+gee-46@github: ~$ neofetch
+</text>
+
+<g font-size="12.5">
+<text x="20" y="58">
+<tspan fill="#3fb950">gee-46</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#22d3ee">github</tspan>
+</text>
+
+<text x="20" y="82" fill="#ffa657">Now</text>
+<text x="110" y="82" fill="#c9d1d9">AI Engineer</text>
+
+<text x="20" y="102" fill="#ffa657">Education</text>
+<text x="110" y="102" fill="#c9d1d9">B.E. AI &amp; DS • SGBIT</text>
+
+<text x="20" y="122" fill="#ffa657">Focus</text>
+<text x="110" y="122" fill="#c9d1d9">AI Engineering • GenAI</text>
+<text x="110" y="140" fill="#c9d1d9">LLMs • Agentic AI</text>
+
+<text x="20" y="168" fill="#58a6ff">── Stack ─────────────────────</text>
+
+<text x="20" y="190" fill="#c9d1d9">Python      Git</text>
+<text x="20" y="208" fill="#c9d1d9">FastAPI     PyTorch</text>
+<text x="20" y="226" fill="#c9d1d9">TensorFlow  OpenCV</text>
+<text x="20" y="244" fill="#c9d1d9">MediaPipe   LangChain</text>
+
+<text x="20" y="272" fill="#58a6ff">── Projects ──────────────────</text>
+
+<circle cx="24" cy="290" r="2.5" fill="#3fb950"/>
+<text x="34" y="294" fill="#c9d1d9">Production RAG AI Assistant</text>
+<text x="48" y="309" fill="#7d8590">↳ Currently Building</text>
+
+<circle cx="24" cy="325" r="2.5" fill="#3fb950"/>
+<text x="34" y="329" fill="#c9d1d9">Disaster VQA System</text>
+
+<circle cx="24" cy="345" r="2.5" fill="#3fb950"/>
+<text x="34" y="349" fill="#c9d1d9">PPE Detection System</text>
+<text x="48" y="364" fill="#7d8590">↳ Research Ongoing</text>
+
+<circle cx="250" cy="290" r="2.5" fill="#3fb950"/>
+<text x="260" y="294" fill="#c9d1d9">Gesture Volume</text>
+<text x="260" y="309" fill="#c9d1d9">Control Tool</text>
+
+<text x="250" y="332" fill="#58a6ff">── Highlights ───────────────</text>
+<text x="250" y="352" fill="#c9d1d9">🏆 Top 4 @ InnovateX 4.0</text>
+<text x="250" y="370" fill="#c9d1d9">🏆 Top 8 @ Techverse BIT</text>
+
+<text x="240" y="386" text-anchor="middle" fill="#7d8590">▼ SCROLL DOWN FOR MORE ▼</text>
+</g>
+</svg>
