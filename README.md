@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/gautam-n-chipkar-348b092a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://gautamnc-portfolio.vercel.app"/)
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)(https://gautamnc-portfolio.vercel.app"/)
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%20%2F%20ML%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white"/>
 &nbsp;
