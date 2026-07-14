@@ -1,5 +1,4 @@
-<div align="center">
-<table>
+
 <tr>
 <td valign="top">
 <img src="./ascii.svg" width="370" alt="ASCII Portrait"/>
