@@ -246,13 +246,6 @@ Grounded Answer — hallucination significantly reduced
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
 
 <br>
 
