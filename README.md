@@ -242,20 +242,28 @@ Grounded Answer — hallucination significantly reduced
 ---
 
 ## 📊 GitHub Activity
+<div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</td>
-<td>
-<img src="https://streak-stats.demolab.com/?user=gee-46&theme=tokyonight&hide_border=true&cache_seconds=1"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+<div>
+  <img height="170" src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
