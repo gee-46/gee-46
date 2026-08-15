@@ -53,9 +53,7 @@ I don't just use frameworks — I build under them to understand every layer. Cu
 
 ---
 
-## 🔨 What I'm Building Right Now
-
-### Modular RAG System — no LangChain, built from scratch
+## 💼 Currently
 
 </div>
 
@@ -63,40 +61,12 @@ I don't just use frameworks — I build under them to understand every layer. Cu
 <tr>
 <td>
 
-> My main focus. I want to know *exactly* what's happening at every step — so I skipped the abstractions.
+**AI/ML Intern @ Samruddhi Organics** — leading the tech team and building **NutriPalm AI**, an AI-powered precision agriculture platform.
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```
-User Query
-    ↓
-Sentence Embeddings  ←  SentenceTransformers
-    ↓
-FAISS Vector Search  →  Top-K Relevant Chunks
-    ↓
-Context Construction
-    ↓
-Local LLM (Ollama)  ←→  OpenAI  [pluggable backend]
-    ↓
-Grounded Answer — hallucination significantly reduced
-```
-
-</div>
-
-<table>
-<tr>
-<td>
-
-**Currently working on:**
-- Chunking strategies — sliding window and semantic-aware splitting
-- Retrieval quality benchmarking across chunk sizes
-- FastAPI deployment layer
-
-**Why from scratch?** I wanted to understand what LangChain actually does. Now I do.
+> 🌱 **NutriPalm AI**
+> *AI-Powered Precision Agriculture Platform*
+> Digital Twins for every farm. Smarter decisions for every farmer.
+> **Built by Samruddhi Organics**
 
 </td>
 </tr>
