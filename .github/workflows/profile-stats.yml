@@ -3,6 +3,9 @@ name: Update README stats cards
 on:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +31,13 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true'
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
