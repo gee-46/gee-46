@@ -214,18 +214,18 @@ I don't just use frameworks — I build under them to understand every layer. Cu
 ## 📊 GitHub Activity
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gee-46&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<!-- Generated nightly by .github/workflows/profile-stats.yml and committed to /profile — no live API call happens when this page loads -->
+<img height="170" src="./profile/stats.svg"/>
 
 <br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gee-46&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="./profile/top-langs.svg"/>
 
 </div>
 <div>
-  <img height="170" src="https://streak-stats.demolab.com?user=gee-46&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="./profile/streak.svg"/>
 </div>
 
 ---
