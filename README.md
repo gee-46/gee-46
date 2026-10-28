@@ -223,11 +223,7 @@ I don't just use frameworks — I build under them to understand every layer. Cu
   </a>
 </p>
 
-## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=gee-46&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ## 🐍 Contribution Activity
 
